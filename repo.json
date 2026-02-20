@@ -1,0 +1,8 @@
+{
+    "name": "StreamPlay Repo",
+    "description": "Cloudstream StreamPlay Repo",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/nuyuls79/StreamPlay-movie/refs/heads/builds/plugins.json"
+    ]
+}
